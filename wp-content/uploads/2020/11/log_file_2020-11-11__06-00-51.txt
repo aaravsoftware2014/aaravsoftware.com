@@ -1,0 +1,65 @@
+
+---Upload files---
+Content file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 5000
+Files info:
+Site URL = https://newaarav.aaravsoftware.in
+Data file = not defined!
+Widget file = /home/aaravsoftware/public_html/newaarav/wp-content/uploads/2020/11/ocdi-bizix-widgets.json
+Customizer file = /home/aaravsoftware/public_html/newaarav/wp-content/uploads/2020/11/ocdi-bizix-customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+gyan_posts_slider_wid - Popular Posts - Site does not support widget
+Tag Cloud - No Title - Imported
+Gallery - Photo Gallery - Imported
+Categories - No Title - Imported
+
+Page Sidebar : 
+
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Side Panel : 
+
+gyan_social - No Title - Site does not support widget
+Gallery - Photo Gallery - Imported
+Navigation Menu - Our Services - Imported
+
+Search Page Sidebar : 
+
+gyan_posts_slider_wid - Recent Posts - Site does not support widget
+Tag Cloud - No Title - Imported
+Gallery - Photo Gallery - Imported
+
+Footer Column 1 : 
+
+gyan_social - No Title - Site does not support widget
+
+Footer Column 2 : 
+
+Navigation Menu - Our Services - Imported
+
+Footer Column 3 : 
+
+gyan_recent_posts_wid - Recent Posts - Site does not support widget
+
+Footer Column 4 : 
+
+gyan_useful_links_wid - Useful Links - Site does not support widget
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

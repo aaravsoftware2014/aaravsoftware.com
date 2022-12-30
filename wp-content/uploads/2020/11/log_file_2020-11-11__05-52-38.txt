@@ -1,0 +1,83 @@
+
+---Upload files---
+Widget file was not uploaded. Error: No file provided.
+
+---Upload files---
+Customizer file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 5000
+Files info:
+Site URL = https://newaarav.aaravsoftware.in
+Data file = /home/aaravsoftware/public_html/newaarav/wp-content/uploads/2020/11/ocdi-bizix.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import portfolio_category Graphics
+[WARNING] Failed to import portfolio_category Mobile
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import portfolio_category Web Design
+
+
+------
+New AJAX call!
+[WARNING] Failed to import portfolio_category Graphics
+[WARNING] Failed to import portfolio_category Mobile
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import portfolio_category Web Design
+
+
+------
+New AJAX call!
+[WARNING] Failed to import portfolio_category Graphics
+[WARNING] Failed to import portfolio_category Mobile
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import portfolio_category Web Design
+
+
+------
+New AJAX call!
+[WARNING] Failed to import portfolio_category Graphics
+[WARNING] Failed to import portfolio_category Mobile
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import portfolio_category Web Design
+
+
+------
+New AJAX call!
+[WARNING] Failed to import portfolio_category Graphics
+[WARNING] Failed to import portfolio_category Mobile
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import portfolio_category Web Design
+
+
+------
+New AJAX call!
+[WARNING] Failed to import portfolio_category Graphics
+[WARNING] Failed to import portfolio_category Mobile
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import portfolio_category Web Design
+
+
+------
+New AJAX call!
+[WARNING] Failed to import portfolio_category Graphics
+[WARNING] Failed to import portfolio_category Mobile
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import portfolio_category Web Design
+

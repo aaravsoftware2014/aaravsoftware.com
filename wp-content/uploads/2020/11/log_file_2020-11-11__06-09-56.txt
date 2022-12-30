@@ -1,0 +1,49 @@
+
+---Upload files---
+Content file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 5000
+Files info:
+Site URL = https://newaarav.aaravsoftware.in
+Data file = not defined!
+Widget file = /home/aaravsoftware/public_html/newaarav/wp-content/uploads/2020/11/home-page-3-2.json
+Customizer file = /home/aaravsoftware/public_html/newaarav/wp-content/uploads/2020/11/ocdi-bizix-customizer-10.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+version : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+title : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+type : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+content : Sidebar does not exist in theme (moving widget to Inactive)
+
+0 - No Title - Site does not support widget
+1 - No Title - Site does not support widget
+2 - No Title - Site does not support widget
+3 - No Title - Site does not support widget
+4 - No Title - Site does not support widget
+5 - No Title - Site does not support widget
+6 - No Title - Site does not support widget
+7 - No Title - Site does not support widget
+8 - No Title - Site does not support widget
+9 - No Title - Site does not support widget
+10 - No Title - Site does not support widget
+11 - No Title - Site does not support widget
+12 - No Title - Site does not support widget
+13 - No Title - Site does not support widget
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

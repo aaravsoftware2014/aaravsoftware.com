@@ -1,0 +1,62 @@
+
+---Downloaded files---
+The import files for: Demo 1 were successfully downloaded!
+Initial max execution time = 5000
+Files info:
+Site URL = https://newaarav.aaravsoftware.in
+Data file = /home/aaravsoftware/public_html/newaarav/wp-content/uploads/2020/11/demo-content-import-file_2020-11-11__07-44-22.xml
+Widget file = /home/aaravsoftware/public_html/newaarav/wp-content/uploads/2020/11/demo-widgets-import-file_2020-11-11__07-44-22.json
+Customizer file = /home/aaravsoftware/public_html/newaarav/wp-content/uploads/2020/11/demo-customizer-import-file_2020-11-11__07-44-22.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Custom - Posts Slider - Popular Posts - Widget already exists
+Tag Cloud - No Title - Widget already exists
+Gallery - Photo Gallery - Widget already exists
+Categories - No Title - Widget already exists
+
+Page Sidebar : 
+
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Side Panel : 
+
+Custom - Company Information - No Title - Widget already exists
+Gallery - Photo Gallery - Widget already exists
+Navigation Menu - Our Services - Imported
+
+Search Page Sidebar : 
+
+Custom - Posts Slider - Recent Posts - Widget already exists
+Tag Cloud - No Title - Widget already exists
+Gallery - Photo Gallery - Widget already exists
+
+Footer Column 1 : 
+
+Custom - Company Information - No Title - Imported
+
+Footer Column 2 : 
+
+Navigation Menu - Our Services - Imported
+
+Footer Column 3 : 
+
+Custom - Recent Posts - Recent Posts - Imported
+
+Footer Column 4 : 
+
+Custom - Useful Links - Useful Links - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+ Slider processed

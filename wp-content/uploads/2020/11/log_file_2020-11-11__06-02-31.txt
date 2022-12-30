@@ -1,0 +1,98 @@
+
+---Upload files---
+Content file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 5000
+Files info:
+Site URL = https://newaarav.aaravsoftware.in
+Data file = not defined!
+Widget file = /home/aaravsoftware/public_html/newaarav/wp-content/uploads/2020/11/home-3-header.json
+Customizer file = /home/aaravsoftware/public_html/newaarav/wp-content/uploads/2020/11/ocdi-bizix-customizer-2.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+swm_topbar_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_style : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidepanel_icon_col : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_bg_opacity : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_pr_menu_links_text_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_pr_menu_links_text_hover_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_pr_menu_active_border_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_pr_menu_active_border_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_main_header_bg_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_button_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_pr_menu_divider_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidepanel_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidepanel_icon_style : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_pr_menu_bg : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_pr_menu_links_space : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_pr_menu_divider_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sticky_pr_menu_links_text_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sticky_pr_menu_links_text_hover_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sticky_pr_menu_active_border_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sticky_pr_menu_bg : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sticky_pr_menu_divider_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_button_bg : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_button_h_bg : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_button_border_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_button_border_h_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

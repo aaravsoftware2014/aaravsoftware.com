@@ -1,0 +1,1031 @@
+
+---Upload files---
+Content file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 5000
+Files info:
+Site URL = https://newaarav.aaravsoftware.in
+Data file = not defined!
+Widget file = /home/aaravsoftware/public_html/newaarav/wp-content/uploads/2020/11/demo-customizer.json
+Customizer file = /home/aaravsoftware/public_html/newaarav/wp-content/uploads/2020/11/ocdi-bizix-customizer-3.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+swm_page_preloader_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_page_preloader_bg : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_page_preloader_shape_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_bottom_go_top_scroll_btn_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_bottom_go_top_scroll_bg : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_bottom_go_top_scroll_shape_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_search_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_search_bg_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_search_bg_opacity : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_search_placeholder_text : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_layout_max_width : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_site_content_top_padding_d : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_site_content_bottom_padding_d : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_site_content_top_padding_t : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_site_content_bottom_padding_t : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_site_content_top_padding_m : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_site_content_bottom_padding_m : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_content_layout : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_site_layout : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_boxed_layout_dropshadow : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_boxed_layout_margin_top_bottom : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_boxed_layout_no_margin_resolution : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_boxed_layout_border_radius : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_boxed_layout_padding_left_right : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_body_bg_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_body_bg_opacity : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_body_bg_img : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_body_bg_style : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_skin_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_skin_text_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_secondary_skin_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_secondary_skin_text_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_content_link_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_content_link_hover_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_highlight_bg : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_highlight_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_topbar_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_topbar_font_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_topbar_device : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_topbar_social_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_topbar_left_style_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_main_header_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_style : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_main_header_bg_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_bg_opacity : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_main_header_height_d : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_main_header_height_t : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_main_header_height_m : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sub_header_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sub_header_above_header_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sub_header_height_d : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sub_header_height_t : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sub_header_height_m : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sub_header_bg_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sub_header_bg_img : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sub_header_bg_style : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sub_header_title_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sub_header_title_position : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sub_header_title_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sub_header_title_font_size_d : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sub_header_title_font_size_t : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sub_header_title_font_size_m : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sub_header_title_transform : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sub_header_breadcrumb_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sub_header_breadcrumb_font_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sub_header_breadcrumb_transform : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_breadcrumbs_text_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_breadcrumbs_text_hover_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_breadcrumbs_icons_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_breadcrumbs_hide_device : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_logo_standard : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_logo_retina : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_logo_standard_width : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_pr_menu_font_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_pr_menu_links_space : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_pr_menu_links_text_hover_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_pr_menu_active_border_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_pr_menu_active_border_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_pr_menu_active_border_style : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_pr_menu_bg : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_pr_menu_bg_opacity : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_pr_menu_links_text_transform : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_pr_menu_dropdown_indicator : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_pr_menu_divider_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_pr_menu_divider_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_dd_menu_font_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_dd_menu_title_transform : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_dd_menu_pr_font_family_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_dd_menu_links_space : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_dd_menu_width : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_dd_menu_box_shadow : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_dd_menu_submenu_indicator : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_megamenu_links_space : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_megamenu_text_lineheight : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_dropdown_bullet_arrow : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_megamenu_title_font_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_megamenu_title_font_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sticky_menu_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sticky_logo_standard : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sticky_logo_retina : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_logo_sticky_width : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sticky_pr_menu_divider_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sticky_hide_resolution : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_button_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_button_text : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_button_link : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_button_link_target : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_button_font_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_button_text_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_button_text_h_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_button_bg : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_button_h_bg : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_button_border_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_button_border_h_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_button_width : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_button_border_radius : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_button_border_style : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_button_hide_device : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidepanel_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_hide_sidepanel_resolution : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidepanel_icon_style : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidepanel_overlay_bg : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidepanel_overlay_bg_opacity : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_close_icon_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidepanel_close_icon_col : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidepanel_close_icon_border_col : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidepanel_title_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidepanel_title_transform : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidepanel_title_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidepanel_title_letter_space : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_contact_info_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cih_call : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cih_call_s_title : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cih_email : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cih_email_s_title : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cih_address : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cih_address_s_title : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cih_icon_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cih_title_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cih_subtitle_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cih_title_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cih_subtitle_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_contactinfo_hide_device : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cih_social_icons_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cih_sicons_col : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cih_sicons_bg : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cih_sicons_col_hover : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cih_sicons_bg_hover : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sticky_sidebar_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidebar_title_transform : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidebar_title_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidebar_title_letter_space : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_widget_footer_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_widget_footer_text_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_widget_footer_line_height : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_widget_footer_column : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_widget_footer_title_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_widget_footer_bg_img : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_widget_footer_bg_style : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_widget_footer_title_transform : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_widget_footer_title_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_widget_footer_title_letter_space : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_widget_footer_title_lineheight : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_contact_footer_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cf_column : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cf_email : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cf_email_s_title : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cf_call : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cf_call_s_title : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cf_address : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cf_address_s_title : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_small_footer_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_small_footer_copyright : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_small_footer_top_border_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_google_fonts_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_google_fonts_subset_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_google_font_subset_cyrillic : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_google_font_subset_greek : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_google_font_subset_vietnamese : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_body_font_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_body_font_lineheight : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_body_font_family : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_body_font_weight : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_body_font_weight_medium : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_body_font_weight_semi_bold : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_body_font_weight_bold : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_nav_font_family : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_nav_font_weight : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_title_font_family : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_title_font_weight : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_widget_title_font_family : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_widget_title_font_weight : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_headings_font_family : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_headings_font_weight : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_h1_font_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_h2_font_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_h3_font_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_h4_font_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_h5_font_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_h6_font_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_h1_font_lineheight : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_h2_font_lineheight : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_h3_font_lineheight : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_h4_font_lineheight : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_h5_font_lineheight : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_h6_font_lineheight : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_page_comments_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_blog_page_layout : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_featured_img_height : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_featured_fullwidth_img_height : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_home_blog_header : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_home_blog_header_style : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_rev_slider_shortcode : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_post_title_letter_space : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_post_title_transform : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_date_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_author_name_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cats_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_comments_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_views_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_likes_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_post_button_text : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_excerpt_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_excerpt_length : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_archives_sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_blog_single_header_title : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_blog_page_url : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_single_post_title_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_single_post_title_letter_space : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_single_post_title_lineheight : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_single_post_title_transform : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_single_date_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_single_author_name_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_single_tags_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_single_cats_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_single_views_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_single_likes_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_single_authorbox_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_single_pagination_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_single_related_posts_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_single_related_posts_column : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_single_related_posts_number : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_single_comments_section_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_post_single_section_ttl_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_post_single_section_ttl_letter_space : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_post_single_section_ttl_lineheight : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_post_single_section_ttl_transform : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_portfolio_page_title : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_portfolio_page_url : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_portfolio_comments_on : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_open_sm_new_window : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_icon1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_icon1_url : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_icon2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_icon2_url : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_icon3 : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_icon3_url : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_icon4 : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_icon4_url : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_icon5 : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_icon5_url : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_icon6 : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_icon6_url : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_icon7 : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_icon7_url : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_icon8 : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_icon8_url : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_icon9 : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_icon9_url : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_icon10 : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_icon10_url : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_search_text_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_search_text_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_search_form_border_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_close_icon_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_header_search_max_width : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_content_width : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_container_padding : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_content_headings_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_content_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_topbar_bg_solid_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_topbar_text : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_topbar_hover_text : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_topbar_icon_col : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_topbar_sm_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_topbar_sm_h_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_topbar_left_bg_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_topbar_left_text_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_topbar_left_text_hover_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_topbar_left_icon_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_pr_menu_links_text_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_dd_menu_font_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_d_menu_font_hov_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_dd_bg_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_megamenu_title_lineheight : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_mobile_menu_min_resolution : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sticky_menu_font_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sticky_pr_menu_links_text_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sticky_pr_menu_links_text_hover_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sticky_pr_menu_active_border_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sticky_pr_menu_bg : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidepanel_max_width : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidepanel_icon_col : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidepanel_text_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidepanel_text_col : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidepanel_link : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidepanel_link_hover : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidepanel_border_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidebar_text_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidebar_text_col : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidebar_link : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidebar_link_hover : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidebar_border_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidebar_widget_box_bg : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidebar_title_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_sidebar_title_border_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_widget_footer_space : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_widget_footer_bg_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_widget_footer_bg_color_two : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_widget_footer_border_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_widget_footer_text_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_widget_footer_links_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_widget_footer_links_hover_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_widget_footer_rp_links_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cf_text_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cf_bg_1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_cf_bg_2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_small_footer_text_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_small_footer_text_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_small_footer_link_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_small_footer_link_h_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_post_title_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_post_title_hover_color : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_post_title_size : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_post_title_lineheight : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+swm_post_single_section_ttl_col : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
